@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use BharatSynthQA, please cite it as below."
+type: dataset
+title: "BharatSynthQA: A Context-Grounded Question Answering Dataset on Indian Temples and Religious Heritage"
+authors:
+  - family-names: Naik
+    given-names: Riya
+    orcid: "https://orcid.org/0009-0009-3826-4443"
+    affiliation: "BITS Pilani, K K Birla Goa Campus, India"
+  - family-names: Sharma
+    given-names: Shivam
+    affiliation: "Indian Institute of Technology Madras, India"
+  - family-names: Agarwal
+    given-names: Swati
+    affiliation: "PandaByte Innovations Pvt Ltd, India"
+year: 2026
+url: "https://huggingface.co/datasets/theshivam7/bharatsynth-qa"
+repository-code: "https://github.com/theshivam7/bharatsynth-qa"
+license: CC-BY-SA-4.0
+keywords:
+  - question answering
+  - cultural heritage
+  - India
+  - temples
+  - retrieval-augmented generation
